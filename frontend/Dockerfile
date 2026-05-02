@@ -11,3 +11,4 @@ EXPOSE 3000
 # Serve the 'dist' or 'build' folder (check your project, usually 'dist' for Vite or 'build' for CRA)
 CMD ["serve", "-s", "dist", "-l", "3000"]
 
+# Force Redo
